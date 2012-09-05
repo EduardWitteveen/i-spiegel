@@ -10,4 +10,4 @@ Opsomming:
  # dds.sql
  # gba.sql
  # ispiegel.sql
- # WOZ.sql
+ # woz.sql
