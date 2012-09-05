@@ -5,9 +5,9 @@ De i-Spiegel geeft gemeenten de mogelijkheid om hun gegevenshuishouding te contr
 == *Details* ==
 
 Opsomming:
-* bag.sql
-* compare.sql
-* dds.sql
-* gba.sql
-* ispiegel.sql
-* WOZ.sql
+ # bag.sql
+ # compare.sql
+ # dds.sql
+ # gba.sql
+ # ispiegel.sql
+ # WOZ.sql
