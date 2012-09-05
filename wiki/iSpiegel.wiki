@@ -7,7 +7,7 @@ De i-Spiegel geeft gemeenten de mogelijkheid om hun gegevenshuishouding te contr
 == *Details* ==
 
 Opsomming:
- # [WikiSyntax export] bag.sql
+ # [export] bag.sql
  # compare.sql
  # dds.sql
  # gba.sql
