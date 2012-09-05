@@ -1,0 +1,12 @@
+= *Introductie* =
+
+De i-Spiegel geeft gemeenten de mogelijkheid om hun gegevenshuishouding te controleren, het maken van een kwaliteitsslag op je eigen data. Daarbij worden tevens de positieve baten meegenomen die gehaald kunnen worden bij de kwaliteitsslag.
+
+== *Details* ==
+
+* bag.sql
+* compare.sql
+* dds.sql
+* gba.sql
+* ispiegel.sql
+* WOZ.sql
